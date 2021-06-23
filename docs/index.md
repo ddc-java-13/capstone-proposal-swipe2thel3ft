@@ -20,6 +20,8 @@ This app will allow the user to be able to go ahead and take down, take and atta
 * Take pictures of notes or attach them to other pieces of notes
 * Show which notes were taken on what date
 * Let you arrange notes in the order you would like them if you need them in a specific order
+* Exchange photos and notes with others 
+* Have access to a list of people using the app or contacts to send notes/photos to
 
 ### Persistent data
 
@@ -27,13 +29,13 @@ Notes and pictures and in what way they were arranged.
 
 ### Device/external services
 
-Will need access and permission to use the phones camera
+Will need access and permission to use the phones camera and contacts
 
 ## Server component
 
 ### Functionality
 
-Possibly storing a back up of note and photos taken. Also being able to exchange photos and notes with others using the App.
+Possibly storing a back up of note and photos taken. Also being able to exchange photos and notes with others using the App or Within users phone contacts.
 
 ### Persistent data
 
