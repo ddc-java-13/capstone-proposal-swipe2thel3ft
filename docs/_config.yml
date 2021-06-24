@@ -9,7 +9,7 @@ titles_from_headings:
 # Modify the contents below for the specific project.
 
 title: "Notebook"       # Write the project title inside the quotes.
-description: "An app to be able to store notes notes."  # Write the project description inside the quotes
+description: "An app to be able to store and share notes."  # Write the project description inside the quotes
 author:                                  # Don't do anything with this line!
   name: "Victor Perez"           # Write your name inside the quotes.
 
